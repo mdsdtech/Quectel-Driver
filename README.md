@@ -32,5 +32,15 @@ These drivers enable integration of Quectel modules for cellular connectivity in
 
 ## Support
 
+For support, questions, and community discussions, please visit the official Quectel forum:
+
+https://forums.quectel.com/
+
+This forum is a valuable resource for troubleshooting, sharing experiences, and getting help from both Quectel staff and other users working with Quectel modules and drivers.
+
+For specific issues related to this repository, please open an issue in the GitHub Issues section.
+
 
 ## License
+
+For details on the license of this project, please see the LICENSE file in this repository or refer to the GitHub license tab at the top of this page.
